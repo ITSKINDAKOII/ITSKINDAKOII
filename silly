@@ -1,0 +1,223 @@
+======================================-->
+<div class="container-fluid p-2" style="max-width:1000px;">
+<div class="card bg-faded p-3">
+<div class="row no-gutters">
+    <div class="col-md-3 my-auto">
+        <!--========= PROFILE IMAGE =========-->
+        <div class="card mx-auto" style="height:175px; width:175px; background-position: center; background-size:cover; background-repeat: no-repeat; background-image: url('https://f2.toyhou.se/file/f2-toyhou-se/images/113950120_0aSqnoXFY7qlUqN.png');"></div>
+        <!--========= END PROFILE IMAGE =========-->
+        <div class="p-2 mx-auto text-center">
+            <!--========= NAME & PRONOUNS =========-->
+            <!-- NAME -->
+            <div class="font-italic" style="font-family:georgia;"><strong>
+                KOII
+            </strong></div>
+            <!-- PRONOUNS -->
+            <div class="text-muted">
+                any prns
+            </div>
+            <!--========= END NAME & PRONOUNS =========-->
+            <!--========= STATUSES =========-->
+            <div class="text-muted" style="font-size:11px;">
+                <!-- top border -->
+                <div>
+                    ╔════════════════╗
+                </div>
+                <div class="py-2">
+                    <div style="font-family:georgia;"><em>status -- !</em></div>
+                    <!-- statuses -->
+                    <div>
+                        commissions: open
+                    <br>
+                        trades: ask
+                    <br>
+                        requests: closed
+                    </div> 
+                </div>
+                <!-- bottom border -->
+                <div>
+                    ╚════════════════╝
+                </div>
+            </div>
+            <!--========= END STATUSES =========-->
+        </div>
+    </div>
+    <!--========= END OF LEFTHAND COLUMN =========-->
+    <!--========= MIDDLE COLUMN =========-->
+    <div class="col-md-6 px-md-3 py-md-0 py-3 my-auto text-center">
+        <!-- top border -->
+        <div class="pb-2">
+            ╔══ ⟡ ✦ ♡ ✦ ⟡ ══╗
+        </div>         
+        <div class="text-muted">
+            Hi, I'm Koii! I am a digital artist and fursuit maker! Feel free to take a look around my page :3
+        </div>
+        <!-- bottom border -->
+        <div class="pt-2">
+            ╚══ ⟡ ✦ ♡ ✦ ⟡ ══╝
+        </div>            
+        <!--========= FRIEND/MUTUAL LIST =========-->
+        <div class="row no-gutters m-1 justify-content-center py-2">
+            <!--========= FRIEND ONE =========-->
+            <div class="col-auto">
+                <div class="card m-1" style="height:40px; width:40px; background-position: center; background-size:cover; background-repeat: no-repeat; background-image: url(
+                https://f2.toyhou.se/file/f2-toyhou-se/images/97014411_XVMThBhybJAdm5Q.png?1741622614
+                );">
+                <a class="w-100 h-100 tooltipster" style="border-radius:100%; opacity:0.25;" title="
+                RIELLEIFIED
+                " href="
+               https://toyhou.se/rielleified
+                " target="_BLANK"></a>
+                </div>
+            </div>
+            <!--========= END FRIEND ONE =========-->
+            <!--========= FRIEND TWO =========-->
+            <div class="col-auto">
+                <div class="card m-1" style="height:40px; width:40px; background-position: center; background-size:cover; background-repeat: no-repeat; background-image: url(
+                IMGHERE
+                );">
+                <a class="w-100 h-100 tooltipster" style="border-radius:100%; opacity:0.25;" title="
+                USERNAME
+                " href="
+                LINKHERE
+                " target="_BLANK"></a>
+                </div>
+            </div>
+            <!--========= END FRIEND TWO =========-->
+            <!--========= FRIEND THREE =========-->
+            <div class="col-auto">
+                <div class="card m-1" style="height:40px; width:40px; background-position: center; background-size:cover; background-repeat: no-repeat; background-image: url(
+                IMGHERE
+                );">
+                <a class="w-100 h-100 tooltipster" style="border-radius:100%; opacity:0.25;" title="
+                USERNAME
+                " href="
+                LINKHERE
+                " target="_BLANK"></a>
+                </div>
+            </div>
+            <!--========= END FRIEND THREE =========-->
+            <!--=====================================
+            PASTE NEW FRIENDS ABOVE HERE! Use the code below to add more friends/mutuals above this line.
+            ======================================-->
+            <!--=====================================
+            <div class="col-auto">
+                <div class="card m-1" style="height:40px; width:40px; background-position: center; background-size:cover; background-repeat: no-repeat; background-image: url(
+                IMGHERE
+                );">
+                <a class="w-100 h-100 tooltipster" style="border-radius:100%; opacity:0.25;" title="
+                USERNAME
+                " href="
+                LINKHERE
+                " target="_BLANK"></a>
+                </div>
+            </div>
+            ======================================-->
+        </div>
+        <!--========= END FRIEND/MUTUAL LIST =========--> 
+        <!--========= LINKS =========-->
+        <div class="text-center">
+            <div class="font-italic" style="font-family:georgia;"><strong>links -- !</strong></div>
+            <!--=====================================
+            TIP: feel free to add more icons and links! you can grab the icons at fontawesome.com 
+            You can also delete any socials you aren't using.
+            ======================================-->
+            <!-- instagram -->
+            <a target="BLANK_" class="text-muted" href="https://www.instagram.com/itskindakoii"><i class="fa-brands fa-instagram"></i></a>
+            <!-- twitter -->
+            <a target="BLANK_" class="text-muted" href="https://twitter.com/itskindakoii"><i class="fa-brands fa-twitter"></i></a>
+            <!-- bluesky -->
+            <a target="BLANK_" class="text-muted" href="https://bsky.app/profile/itskindakoii.bsky.social"><i class="fa-brands fa-bluesky"></i></a>
+            <!-- deviantart -->
+            <a target="BLANK_" class="text-muted" href="https://www.deviantart.com/itskindakoii"><i class="fa-brands fa-deviantart"></i></a>
+            <!-- art fight -->
+            <a target="BLANK_" class="text-muted" href="https://artfight.net/~itskindakoii"><i class="fa-solid fa-pen-paintbrush"></i></a>  
+            <!-- youtube -->
+            <a target="BLANK_" class="text-muted" href="https://www.youtube.com/itskindakoii"><i class="fa-brands fa-youtube"></i></a>
+            <!-- TIP: if your youtube username is used by someone onsite, it may show up as an @ ping. You can put a slash between the @ and your username just as you would to avoid pinging on the site, in order to make the link work. i.e., youtube.com/@iinkt stops my link from breaking. --> 
+            <!-- twitch -->
+            <a target="BLANK_" class="text-muted" href="https://twitch.tv/itskindakoii"><i class="fa-brands fa-twitch"></i></a>
+        </div>
+        <!--========= END LINKS =========-->
+    </div>
+    <!--========= END MIDDLE COLUMN =========-->  
+    <!--========= RIGHT COLUMN (IMAGE) =========-->
+    <div class="col-md-3 my-auto">
+        <div class="card" style="min-height:350px;background-position: center; background-size:cover; background-repeat: no-repeat; background-image: url('
+    https://f2.toyhou.se/file/f2-toyhou-se/images/121238344_urJEaSloHuoKEOW.png
+        ');"></div>
+    </div>
+    <!--========= END RIGHT COLUMN (IMAGE) =========-->
+</div> <!-- end of row -->
+</div> <!-- end of card -->
+</div> <!-- end of container -->
+<!--========= END OF MAIN CARD =========-->
+<!--========= FEATURED CHARACTERS =========-->
+<div class="font-italic text-center" style="font-family:georgia"><strong>featured ocs -- !</strong></div>
+<div class="row no-gutters px-2 justify-content-center"> 
+    <!--========= CHARACTER ONE =========-->
+    <div class="col-md-auto col-4 p-1 justify-content-center">
+        <a href="
+        https://toyhou.se/9297764.stripedstar
+        " target="_BLANK"><img src="
+       https://f2.toyhou.se/file/f2-toyhou-se/images/113906797_LXrIrpJYb1F84zL.gif
+        " class="mx-auto rounded" style="max-height:200px;"></a>
+    </div>
+    <!--========= END CHARACTER ONE =========-->
+    <!--========= CHARACTER TWO =========-->
+    <div class="col-md-auto col-4 p-1 justify-content-center">
+        <a href="
+       https://toyhou.se/31518538.meadow
+        " target="_BLANK"><img src="
+        https://f2.toyhou.se/file/f2-toyhou-se/images/113906775_O1rtXMs0gFQfdj0.gif
+        " class="mx-auto rounded" style="max-height:200px;"></a>
+    </div>
+    <!--========= END CHARACTER TWO =========-->
+
+    <!--========= CHARACTER THREE =========-->
+    <div class="col-md-auto col-4 p-1 justify-content-center">
+        <a href="
+        https://toyhou.se/35244357.penance  
+        " target="_BLANK"><img src="     
+        https://f2.toyhou.se/file/f2-toyhou-se/images/113906810_nHB2dRfwuaJ9SJr.gif    
+        " class="mx-auto rounded" style="max-height:200px;"></a>
+    </div>
+    <!--========= END CHARACTER THREE =========-->
+  <!--========= CHARACTER four =========-->
+    <div class="col-md-auto col-4 p-1 justify-content-center">
+        <a href="
+                https://toyhou.se/36158055.angel
+        " target="_BLANK"><img src="
+        https://f2.toyhou.se/file/f2-toyhou-se/images/113906746_Nqx8vgrOHIg3rsk.gif
+        " class="mx-auto rounded" style="max-height:200px;"></a>
+    </div>
+    <!--========= END CHARACTER four =========-->
+  <!--========= CHARACTER five =========-->
+    <div class="col-md-auto col-4 p-1 justify-content-center">
+        <a href="
+        https://toyhou.se/34247425.kin        
+        " target="_BLANK"><img src="       
+        https://f2.toyhou.se/file/f2-toyhou-se/images/113906758_O5wsQfJCijmLGxE.gif      
+        " class="mx-auto rounded" style="max-height:200px;"></a>
+    </div>
+    <!--========= END CHARACTER five =========-->
+  <!--========= CHARACTER six =========-->
+    <div class="col-md-auto col-4 p-1 justify-content-center">
+        <a href="        
+        https://toyhou.se/14376696.elyse        
+        " target="_BLANK"><img src="        
+        https://f2.toyhou.se/file/f2-toyhou-se/images/114416277_15l2R3aBJPifunS.gif        
+        " class="mx-auto rounded" style="max-height:200px;"></a>
+    </div>
+    <!--========= END CHARACTER six =========-->
+  <!--========= CHARACTER seven=========-->
+    <div class="col-md-auto col-4 p-1 justify-content-center">
+        <a href="     
+        https://toyhou.se/36035027.sanguine     
+        " target="_BLANK"><img src="    
+       https://f2.toyhou.se/file/f2-toyhou-se/images/113906791_9DLg2LWrlMCxrdo.gif    
+        " class="mx-auto rounded" style="max-height:200px;"></a>
+    </div>
+    <!--========= END CHARACTER seven =========-->       
+</div>
+<!--========= END FEATURED CHARACTERS =========-->
